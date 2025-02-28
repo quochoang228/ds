@@ -18,10 +18,13 @@ dependencies:
   dotted_border: ^2.1.0
 
   cdn:
-    path: ../cdn
-
+    git:
+      url: https://github.com/quochoang228/cdn.git
+      ref: main
   utils:
-    path: ../utils
+    git:
+      url: https://github.com/quochoang228/utils.git
+      ref: main
 
 dev_dependencies:
   flutter_test:
