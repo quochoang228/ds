@@ -1,7 +1,4 @@
-import 'package:ds/ds.dart';
-import 'package:ds/src/components/text_field/ds_text_field_v2.dart';
-import 'package:flutter/material.dart';
-import 'package:wolt_modal_sheet/wolt_modal_sheet.dart';
+part of '../../../ds.dart';
 
 /// Represents the selection type options for a WoltSelectionList widget.
 enum SelectionListType {
