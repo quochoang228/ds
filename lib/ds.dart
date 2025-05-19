@@ -25,6 +25,7 @@ part 'src/theme/spacing.dart';
 part 'src/theme/text_style.dart';
 
 part 'src/components/layout/layout.dart';
+part 'src/components/layout/measure_size.dart';
 
 part 'src/components/loading/dialog_loading.dart';
 part 'src/components/loading/list_loading.dart';
